@@ -1,0 +1,40 @@
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596401281" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Main Method Starts :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596402277" level="INFO" thread="main">
+<log4j:message><![CDATA[Jdbc Connections Happens Here :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596402277" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Perform Select Operations :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596402277" level="INFO" thread="main">
+<log4j:message><![CDATA[PreparedStatement Object is Created :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596402283" level="INFO" thread="main">
+<log4j:message><![CDATA[Result Object Is not Closed :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596419813" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Main Method Starts :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596420856" level="INFO" thread="main">
+<log4j:message><![CDATA[Jdbc Connections Happens Here :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596420856" level="DEBUG" thread="main">
+<log4j:message><![CDATA[Perform Select Operations :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596420856" level="INFO" thread="main">
+<log4j:message><![CDATA[PreparedStatement Object is Created :]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.main.SelectEmp01" timestamp="1731596420856" level="INFO" thread="main">
+<log4j:message><![CDATA[Result Object Is not Closed :]]></log4j:message>
+</log4j:event>
+
