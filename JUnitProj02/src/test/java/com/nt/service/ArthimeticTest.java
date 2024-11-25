@@ -38,7 +38,7 @@ private static Arithmetic ar ;
 	@Test
 	public void TestWithNegativeValue() 
 	{
-	   int expexted = -100;
+	   int expexted = 100;
 	  int actual = ar.sum(-10, -10);
 	  assertEquals(expexted, actual);
 	} 
