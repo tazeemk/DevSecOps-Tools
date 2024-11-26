@@ -22,7 +22,7 @@ public class DevangServlet extends HttpServlet
 		//pw.format("text/html");
 		pw.print("Welcome TO DevangPelanduHub :");
 		pw.print(new Date());
-		pw.print("hello ");
+		pw.print("<br> hello ");
 		
 		
 		
