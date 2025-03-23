@@ -18,7 +18,6 @@ public class AppTest {
 	@BeforeAll
 	public static void beforeAll() 
     {
-		
 		palen = new Palendrome();
 	}
 	
