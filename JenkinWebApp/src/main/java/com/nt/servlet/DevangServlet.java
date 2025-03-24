@@ -19,7 +19,7 @@ public class DevangServlet extends HttpServlet
 	
 		PrintWriter pw =resp.getWriter();
 		//pw.format("text/html");
-		pw.print("Welcome TO DevangPelanduHub :");
+		pw.print("Welcome TO DevangHub :");
 		pw.print(new Date());
 		pw.print("<br>" + " hello Gautam ");
 		
